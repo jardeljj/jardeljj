@@ -41,6 +41,6 @@
 
 <br clear="both">
 
-<a src="https://raw.githubusercontent.com/jardeljj/jardeljj/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jardeljj/jardeljj/output/snake.svg" alt="Snake animation" />
 
 ###
